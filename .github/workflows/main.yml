@@ -8,7 +8,7 @@ on:
         required: true
         default: 'rizalmn23'
       agent_description:
-        description: 'asc'
+        description: 'rizalmn23'
         required: true
         default: 'rizalmn23 AI Agent'
 
